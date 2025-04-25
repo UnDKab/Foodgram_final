@@ -7,7 +7,7 @@
 - Клонируйте репозиторий с проектом на свой компьютер.
 - 
 ```bash
-git clone https://github.com/mitrioss/foodgram-st.git
+git clone https://github.com/UnDKab/Foodgram_final.git
 cd foodgram-st/backend
 ```
 
