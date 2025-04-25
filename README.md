@@ -110,4 +110,4 @@ docker compose exec backend python manage.py collectstatic --no-input
 127.0.0.1/api/docs/ - Документация к API 
 
 ### Автор проекта
-Сапронов Дмитрий
+Дементьев Андрей
